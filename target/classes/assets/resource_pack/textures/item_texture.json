@@ -1,0 +1,34 @@
+{
+  "texture_data": {
+    "tron_sword": {
+      "textures": "textures/items/tron_sword.png"
+    },
+    "iron_stick": {
+      "textures": "textures/items/iron_stick.png"
+    },
+    "tron_ingot": {
+      "textures": "textures/items/tron_ingot.png"
+    },
+    "tron_pickaxe": {
+      "textures": "textures/items/tron_pickaxe.png"
+    },
+    "tron_shovel": {
+      "textures": "textures/items/tron_shovel.png"
+    },
+    "tron_axe": {
+      "textures": "textures/items/tron_axe.png"
+    },
+    "tron_chestplate": {
+      "textures": "textures/items/tron_chestplate"
+    },
+    "tron_helmet": {
+      "textures": "textures/items/tron_helmet.png"
+    },
+    "tron_leggings": {
+      "textures": "textures/items/tron_leggings.png"
+    },
+    "tron_boots": {
+      "textures": "textures/items/tron_boots.png"
+    }
+  }
+}

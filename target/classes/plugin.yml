@@ -1,0 +1,5 @@
+name: Minetron
+author: Staticius
+version: "v0.1"
+main: net.minetron.Main
+api: [ 2.0.0 ]
